@@ -1,19 +1,18 @@
 ## Create React- Dasar
 
-This repository contains projects on how to create a basic react project with buttons for adding and subtracting.
-
+This repository contains a project on how to create a basic react using tailwind-css as its styling and react router-DOM to move pages. This project is for learning how react-router-DOM works in the react js library.
 ## Preview
 
 ## Result
 
-![Result](./src/assets/images/Screenshot%202025-05-15%20at%2010.48.50.png)
+![Result](./src/assets/Screenshot%202025-05-15%20at%2023.29.31.png)
 
 ## How to Run this project
 
 1. Clone this project
 
 ```
-git clone    https://github.com/Dwaysetya/fgo24-react-basic
+git clone    https://github.com/Dwaysetya/fgo24-react-pages.git
 ```
 
 2. Enter the project firectory
