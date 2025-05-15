@@ -1,4 +1,4 @@
-## Create React- Dasar
+## Create React-Pages
 
 This repository contains a project on how to create a basic react using tailwind-css as its styling and react router-DOM to move pages. This project is for learning how react-router-DOM works in the react js library.
 ## Preview
