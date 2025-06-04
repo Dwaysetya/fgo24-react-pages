@@ -57,7 +57,7 @@ docker build . -t pages:latest
 
 4. Run image with docker
 ```
-docker run -p 8082:80 -d pages:latest
+docker run -p 8091:80 -d pages:latest
 ```
 
 ## Depedencies
